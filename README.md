@@ -9,3 +9,6 @@ This thing here will take notes for ya
 
 https://dashboard.heroku.com/apps/calm-sands-79129
 
+<h3>Collaborators</h3>
+
+<p>Meg Meyers</p>
